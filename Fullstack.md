@@ -176,6 +176,7 @@ GET /api/record/{dataset_id}/{row_id}
   "rule_explanation": "Possible reconnaissance behavior detected"
 }
 ```
+<img width="2396" height="1078" alt="mermaid-diagram (10)" src="https://github.com/user-attachments/assets/6c2f8073-1799-4927-93ed-2c5515b7af5b" />
 
 ---
 
@@ -209,6 +210,8 @@ Attack Family Mapping
 
 **Output:**
 - Probe / DoS / R2L / U2R
+
+<img width="863" height="1642" alt="image" src="https://github.com/user-attachments/assets/653dcd1b-0a2a-4e14-a645-99c3dba1b016" />
 
 ---
 
@@ -309,6 +312,7 @@ Threat Panel + Graphs Rendered
 - compare performance drop
 - similarity quality metrics
 
+
 ---
 
 ### 🎯 9. Key Research Outputs
@@ -324,3 +328,6 @@ Threat Panel + Graphs Rendered
 ### 💡10. Core Idea
 
 Quantinel transforms raw network traffic into a structured intelligence system that not only detects attacks but explains their behavioral similarity to known threat families using classical and quantum feature spaces.
+
+<img width="1536" height="1024" alt="ChatGPT Image Jun 5, 2026, 09_03_22 PM" src="https://github.com/user-attachments/assets/0833b8a9-947b-4e36-9a2e-5580febc68a5" />
+

@@ -1,0 +1,17 @@
+Attack,Actual Family,Predicted Family,Confidence
+apache2,dos,dos,1.0
+httptunnel,r2l,probe,1.0
+mailbomb,dos,dos,1.0
+mscan,probe,probe,0.8
+named,r2l,probe,1.0
+processtable,dos,dos,1.0
+ps,u2r,u2r,1.0
+saint,probe,probe,1.0
+sendmail,r2l,r2l,1.0
+snmpgetattack,r2l,probe,0.4
+snmpguess,r2l,probe,1.0
+sqlattack,u2r,r2l,0.6
+udpstorm,dos,probe,1.0
+xlock,r2l,probe,0.6
+xsnoop,r2l,dos,1.0
+xterm,u2r,r2l,0.8

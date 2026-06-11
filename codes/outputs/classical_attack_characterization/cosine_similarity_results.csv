@@ -1,0 +1,17 @@
+Attack,Actual Family,Predicted Family,Similarity Score
+apache2,dos,r2l,0.5933766128958862
+httptunnel,r2l,probe,0.5251356283666371
+mailbomb,dos,r2l,0.6546658364289228
+mscan,probe,probe,0.8311145453036511
+named,r2l,probe,0.7744262550293247
+processtable,dos,probe,0.35834555217262876
+ps,u2r,u2r,0.5829172541027998
+saint,probe,probe,0.7012975987618546
+sendmail,r2l,u2r,0.18821607915530456
+snmpgetattack,r2l,probe,0.6278831555314821
+snmpguess,r2l,probe,0.3627184446501745
+sqlattack,u2r,u2r,0.5930151338072583
+udpstorm,dos,probe,0.7125183488251259
+xlock,r2l,r2l,0.4430954127208909
+xsnoop,r2l,dos,0.3152182957477773
+xterm,u2r,u2r,0.6198118279753319
